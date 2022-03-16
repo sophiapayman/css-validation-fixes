@@ -7,8 +7,8 @@ html {
 }
 
 body {
-      background-color #ccc;
-font-family:sans-serif;
+  background-color: #ccc;
+  font-family:sans-serif;
 }
 
 h1 {
@@ -16,6 +16,6 @@ h1 {
 }
 
 article {
-  font-style: italic
+  font-style: italic;
   color: #666;
 }
